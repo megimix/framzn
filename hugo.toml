@@ -2,7 +2,11 @@ baseURL = 'https://talshachar.github.io/framzn/'
 publishDir = 'docs'
 languageCode = 'en-us'
 title = 'Framzn Hugo'
-theme = "LoveIt"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [menu]
   [[menu.main]]
