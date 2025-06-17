@@ -1,4 +1,4 @@
-baseURL = 'https://talshachar.github.io/'
+baseURL = 'https://talshachar.github.io/framzn/'
 publishDir = 'docs'
 languageCode = 'en-us'
 title = 'Framzn Hugo'
