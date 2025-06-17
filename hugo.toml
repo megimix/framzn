@@ -1,4 +1,5 @@
-baseURL = 'https://example.com/'
+baseURL = 'https://talshachar.github.io/'
+publishDir = 'docs'
 languageCode = 'en-us'
 title = 'Framzn Hugo'
 
